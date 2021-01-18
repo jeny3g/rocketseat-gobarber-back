@@ -74,7 +74,7 @@ describe('UpdateUserAvatar', () => {
       avatarFilename: 'avatar2.jpg',
     });
 
-    expect(deleteFile).toHaveBeenCalledWith('avatar2.jpg')
+    expect(deleteFile).toHaveBeenCalledWith('avatar.jpg')
 
     expect(user.avatar).toBe('avatar2.jpg');
   });
