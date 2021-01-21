@@ -36,7 +36,7 @@ describe('SendForgotPasswordEmail', () => {
       email: 'johndoe@example',
     });
 
-    expect(sendMail).toBeCalled();
+    await expect(sendMail).toBeCalled();
   });
 
   it('should not be able to create a non-existing user password', async () => {
