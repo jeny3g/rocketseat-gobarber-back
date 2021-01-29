@@ -30,6 +30,8 @@
     "multer": "^1.4.2",
     "nodemailer": "^6.4.17",
     "pg": "^8.4.2",
+    "rate-limiter-flexible": "^2.2.1",
+    "redis": "^3.0.2",
     "tsyringe": "^4.4.0",
     "typeorm": "^0.2.29",
     "uuidv4": "^6.2.5"
@@ -44,6 +46,7 @@
     "@types/mongodb": "^3.6.3",
     "@types/multer": "^1.4.4",
     "@types/nodemailer": "^6.4.0",
+    "@types/redis": "^2.8.28",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-import-resolver-typescript": "^2.3.0",
