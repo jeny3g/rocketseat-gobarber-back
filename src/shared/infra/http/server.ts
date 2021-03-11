@@ -17,8 +17,10 @@ import '@shared/container';
 const app = express();
 
 const corsOptions = {
-  origin: 'https://www.gobarber.senhorbiscoito.com',
+  origin: 'http://www.gobarber.senhorbiscoito.com',
   optionsSuccessStatus: 200,
+
+
 };
 
 app.use(cors(corsOptions));
