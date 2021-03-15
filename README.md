@@ -11,7 +11,7 @@
   <img alt="GitHub license" src="https://img.shields.io/github/license/SenhorBiscoito/gobarber-back>
 </p>
 
-<img alt="Mockup" src="https://res.cloudinary.com/eliasgcf/image/upload/v1587509596/GoBarber/mockup_ocggit.png">
+<img alt="Mockup" src=".github/mockup_gobarber.png.png">
 
 ## 💥 Gobarber | Gostack 11
 
