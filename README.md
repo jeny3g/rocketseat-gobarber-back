@@ -157,9 +157,6 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
   Primeiramente, você precisará criar um arquivo contendo as informações de acesso ao seu banco de dados. Esta aplicação foi desenvolvida utilizando o **Postgres** e **MongoDB**. Crie um arquivo chamado *ormconfig.json* na pasta `backend` e preencha conforme o arquivo-modelo *ormconfig.example.json*. Lembre-se, antes de rodar as migrations, de criar o banco de dados e informar o nome da sua base no arquivo *ormconfig.json*.
 
   ```bash
-    # Acessar a pasta do back end
-    cd backend
-
     # Baixar as dependências
     yarn
 
@@ -179,9 +176,6 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
   Após executar o passo anterior e garantir que o back end está rodando, você poderá inicializar o front end:
 
   ```bash
-    # Acessar a apsta do front end
-    cd frontend
-
     # Baixar as dependências
     yarn
 
@@ -192,9 +186,6 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
 ## 🐞 Executando testes
 
   ```bash
-    # Acessar a pasta do back end
-    cd backend
-
     # Executando testes
     yarn test
   ```
