@@ -129,13 +129,6 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
     - O usuário não pode agendar serviços consigo mesmo;
 
 ---
-
-> Inicialmente precisamos clonar o repositório para ter acesso a todas as pastas
-```bash
-  # Clonando repositório
-  git clone https://github.com/higorhms/GoBarber.git
-```
-
 ## 💻 Instruções para o back end
 
   Começaremos criando as instâncias dos nossos bancos de dados. Para esse projeto, o **docker** foi utilizado. Abaixo, seguem os comandos para criar os containers e inicializar as instâncias:
