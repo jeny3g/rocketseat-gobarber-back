@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/SenhorBiscoito/gobarber-back">
-   <img alt="Repository size" src="https://img.shields.io/github/repo-size/SenhorBiscoito/gobarber-back>
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/SenhorBiscoito/gobarber-back">
   <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/SenhorBiscoito/gobarber-back>
   <img alt="Made by SenhorBiscoito" src="https://img.shields.io/badge/made%20by-SenhorBiscoito-%20>
   <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/SenhorBiscoito/gobarber-back>
